@@ -3,15 +3,15 @@
   --color-slate-300: hsl(212, 45%, 89%);
   --color-slate-500: hsl(216, 15%, 48%);
   --color-slate-900: hsl(218, 44%, 22%);
-  --font-family: "Outfit", sans-serif; 
+  --font-family: "Outfit", sans-serif;
   --container-radius: 20px;
   --container-shadow: 0 4px 24px hsla(0, 0%, 0%, 0.08);
-  --container-padding: 16px 16px 40px 16px;
+  --container-padding: 1rem 1rem 40px 1rem;
   --container-max-width: 320px;
   --img-radius: 12px;
   --heading-size: 1.25rem;
   --heading-weight: 700;
-  --heading-margin-bottom: 16px;
+  --heading-margin-bottom: 1rem;
   --text-size: 1rem;
   --attribution-size: 11px;
   --attribution-opacity: 0.7;
@@ -42,7 +42,7 @@ body {
 .qr-container img {
   width: 100%;
   border-radius: var(--img-radius);
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
 }
 
 .qr-container h1 {
@@ -51,24 +51,24 @@ body {
   color: var(--color-slate-900);
   margin: 0;
   margin-bottom: var(--heading-margin-bottom);
-  padding: 0 16px;
+  padding: 0 1rem;
 }
 
 .qr-container p {
   font-size: var(--text-size);
   color: var(--color-slate-500);
   margin-bottom: 0;
-  padding: 0 16px;
+  padding: 0 1rem;
 }
 
 .attribution {
   font-size: var(--attribution-size);
   text-align: center;
   position: fixed;
+  will-change: transform;
   bottom: 10px;
   left: 0;
   width: 100%;
-  text-align: center;
   opacity: var(--attribution-opacity);
 }
 .attribution a {
