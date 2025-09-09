@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -19,10 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![QR Code](./images/Frontend%20Mentor%20QR%20code%20component.png)
 
-
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-z20NQpCEUo)
 - [Live Site URL](https://qr-code-component-juanicolas.netlify.app/)
 
 ## My process
@@ -35,6 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 ### What I learned
+
 During this project, I learned how to structure a simple HTML component using semantic tags and apply CSS custom properties for consistent styling. I practiced using Flexbox to center elements both vertically and horizontally, which improved my understanding of layout techniques. Additionally, I reinforced the importance of a mobile-first workflow to ensure the component looks good on all devices.
 
 Here’s an example of how I used Flexbox to center the QR code:
@@ -52,7 +52,7 @@ I also learned how to optimize images for web and ensure accessibility by provid
 
 ### Useful resources
 
- - [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) This article helped me understand how the `box-sizing` property affects element dimensions and layout. I needed to read about it to ensure consistent sizing and spacing for the QR code component, especially when adding padding and borders.
+- [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) This article helped me understand how the `box-sizing` property affects element dimensions and layout. I needed to read about it to ensure consistent sizing and spacing for the QR code component, especially when adding padding and borders.
 
 ## Author
 
